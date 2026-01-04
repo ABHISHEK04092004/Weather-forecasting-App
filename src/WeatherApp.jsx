@@ -22,7 +22,7 @@ let updateInfo=(newInfo)=>{
 
   return(
   <div style={{textAlign:"center"}}>
-    <h2>Weather App by Abhishek</h2>
+    <h2>Weather App by ABHISHEK</h2>
       <SearchBox updateInfo={updateInfo} />
      <InfoBox info={weatherInfo}/> 
     </div>
